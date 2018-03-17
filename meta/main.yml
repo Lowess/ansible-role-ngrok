@@ -1,0 +1,16 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: Lowess
+  description: Ngrok installation on Linux
+  company: "Florian Dambrine"
+  license: license BSD
+  min_ansible_version: 1.8
+  platforms:
+    - name: Ubuntu
+      versions:
+        - trusty
+  galaxy_tags:
+    - devops-360
+    - ngrok
